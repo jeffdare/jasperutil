@@ -1,5 +1,5 @@
 {
-  "name": "Jasper-regis-helper",
+  "name": "jasper-iotf-util",
   "version": "0.1.0",
   "description": "A sample Node.js script to help you bulk register your IoTF devices with Jasper",
   "dependencies": {
@@ -11,5 +11,10 @@
     "type": "git",
     "url": "https://github.com/jeffdare/"
   },
-  "author": "Jeffrey Dare"
+  "author": "Jeffrey Dare",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffdare/jasperutil.git"
+  },
+  "license": "Apache-2.0"
 }
