@@ -1,0 +1,15 @@
+{
+  "name": "Jasper-regis-helper",
+  "version": "0.1.0",
+  "description": "A sample Node.js script to help you bulk register your IoTF devices with Jasper",
+  "dependencies": {
+    "ibmiotf": "latest",
+    "basic-csv" : "latest",
+    "properties-reader" : "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffdare/"
+  },
+  "author": "Jeffrey Dare"
+}
