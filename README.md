@@ -15,6 +15,7 @@ auth-token=xxxxxxxxxx@Ti
 
 ##### devices.csv
 This csv file contains the details of the IoT Foundation devices and the ICCID of the Jasper Device. It is of the format
+
 1. Device Type - Type of device in IoTF
 2. Device ID - Id of the device in IoTF
 3. ICCID - The ICCID of the device in Jasper which is to be bound
